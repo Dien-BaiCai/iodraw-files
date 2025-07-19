@@ -19,7 +19,7 @@
           <mxGeometry x="90" y="70" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-3" value="Determine MotionDirection" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#679099;rounded=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="175" y="250" width="238" height="124" as="geometry">
+          <mxGeometry x="175" y="242" width="238" height="124" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
