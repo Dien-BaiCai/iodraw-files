@@ -57,6 +57,9 @@
         <mxCell id="-wk0IsIf-40VCB_SGS8t-12" value="&lt;b&gt;Assemble Time&lt;/b&gt;&lt;div&gt;&lt;b&gt;Duration&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="242" y="740" width="121" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="16VfP_IXKdBHO_dfxhSN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-13" target="-wk0IsIf-40VCB_SGS8t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-13" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Triangular Velocity&lt;/span&gt;&lt;div&gt;Profile&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6c8ebf;rounded=1;startSize=35;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="34" y="603.5" width="209" height="111.5" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
