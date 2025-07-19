@@ -85,7 +85,7 @@
         <mxCell id="16VfP_IXKdBHO_dfxhSN-0" value="&lt;ul&gt;&lt;li&gt;Use triangle acceleration-deceleration&lt;/li&gt;&lt;li&gt;Compute t1,t2&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="352" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="16VfP_IXKdBHO_dfxhSN-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="16VfP_IXKdBHO_dfxhSN-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="308" y="396" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
