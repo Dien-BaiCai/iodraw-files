@@ -76,12 +76,6 @@
         <mxCell id="16VfP_IXKdBHO_dfxhSN-6" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;&lt;font color=&quot;#1c1f23&quot; face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt; \begin{equation*}&lt;br style=&quot;font-size: 13px;&quot;&gt;t_1, \quad t_2 = 0&lt;br style=&quot;font-size: 13px;&quot;&gt;\end{equation*}&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="-wk0IsIf-40VCB_SGS8t-13">
           <mxGeometry x="105" y="67.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-wk0IsIf-40VCB_SGS8t-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-0" target="-wk0IsIf-40VCB_SGS8t-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="190" as="sourcePoint" />
-            <mxPoint x="530" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-1" target="-wk0IsIf-40VCB_SGS8t-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="340" as="sourcePoint" />
