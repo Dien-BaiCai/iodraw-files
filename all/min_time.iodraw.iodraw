@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VbYp5SbydSx3IrbVefZj-19" value="Compute Accleration Phase" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#679099;rounded=1;startSize=33;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="174" y="374" width="238" height="77" as="geometry">
+          <mxGeometry x="174" y="374" width="233" height="77" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -132,9 +132,9 @@
             <mxPoint x="116" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16VfP_IXKdBHO_dfxhSN-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="16VfP_IXKdBHO_dfxhSN-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-3" target="VbYp5SbydSx3IrbVefZj-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-55" y="391" as="sourcePoint" />
+            <mxPoint x="-55" y="385" as="sourcePoint" />
             <mxPoint x="-5" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
