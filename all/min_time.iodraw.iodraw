@@ -97,14 +97,10 @@
         <mxCell id="VbYp5SbydSx3IrbVefZj-28" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;\begin{equation}&lt;br&gt;\text{Is } |p_2| \geq \frac{\theta_{\text{max},i}^\bullet - v_s^2}{a_{\text{max}}} \text{?}&lt;br&gt;\end{equation}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="116" y="501" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="16VfP_IXKdBHO_dfxhSN-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.612;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="16VfP_IXKdBHO_dfxhSN-1" target="-wk0IsIf-40VCB_SGS8t-10">
+        <mxCell id="16VfP_IXKdBHO_dfxhSN-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.561;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="16VfP_IXKdBHO_dfxhSN-1" target="-wk0IsIf-40VCB_SGS8t-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="539" y="380" as="sourcePoint" />
-            <mxPoint x="589" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="451" y="583" />
-              <mxPoint x="447" y="594" />
-            </Array>
+            <mxPoint x="549.9950336865462" y="594" as="sourcePoint" />
+            <mxPoint x="562.3199999999999" y="616.691" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
