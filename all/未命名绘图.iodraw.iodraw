@@ -32,7 +32,7 @@
           <mxGeometry x="10" y="40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="518.75" width="160" height="92.5" as="geometry" />
+          <mxGeometry x="60" y="511.56" width="160" height="89.37" as="geometry" />
         </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-8" value="Determine MotionDirection" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6c8ebf;rounded=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="501.25" width="190" height="110" as="geometry">
