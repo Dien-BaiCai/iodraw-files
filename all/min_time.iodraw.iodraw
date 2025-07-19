@@ -34,8 +34,8 @@
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-wk0IsIf-40VCB_SGS8t-9" value="Δ0:=0f¡(t)-0i→ss= sin()A&lt;div&gt;0i=0,;(t)-0i →sy= sinA,)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-wk0IsIf-40VCB_SGS8t-8" vertex="1">
-          <mxGeometry x="10" y="40" width="150" height="40" as="geometry" />
+        <mxCell id="-wk0IsIf-40VCB_SGS8t-9" value="compute&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-wk0IsIf-40VCB_SGS8t-8" vertex="1">
+          <mxGeometry x="47" y="44" width="77" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-10" value="Determine MotionDirection" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6c8ebf;rounded=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="640" width="190" height="90" as="geometry">
