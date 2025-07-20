@@ -158,10 +158,10 @@
           <mxGeometry x="107.5" y="-16" width="60" height="187" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-10" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="137" y="416.5" width="209" height="132" as="geometry" />
+          <mxGeometry x="163" y="416.5" width="209" height="132" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-14" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;\begin{equation}&lt;br&gt;\text{Can } \dot{\theta}_{a,i} \in \left( \dot{\theta}_{0,i}, \dot{\theta}_{f,i} \right) \text{?}&lt;br&gt;\end{equation}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="216.5" y="470.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="242.5" y="470.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3-Phase Profile&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="393" width="264" height="128" as="geometry">
@@ -172,7 +172,7 @@
           <mxGeometry x="38.5" y="37" width="187" height="79" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Solve Quadratic Equation for Transition Profile&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;startSize=33;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="73" y="705.5" width="341" height="110" as="geometry">
+          <mxGeometry x="99" y="705.5" width="341" height="110" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -180,7 +180,7 @@
           <mxGeometry x="75" y="30" width="187" height="79" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Determine the intermediate speed&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=13;arcSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="73" y="563.5" width="340" height="120" as="geometry">
+          <mxGeometry x="99" y="563.5" width="340" height="120" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
