@@ -194,7 +194,10 @@
           <mxGeometry x="616" y="612.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-29" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Assemble Time&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Duration&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="577.5" y="752" width="121" height="54" as="geometry" />
+          <mxGeometry x="547.25" y="729" width="181.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="BSMf97rxSCMEbcBgawUs-30" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Assemble Time&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Duration&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="729" width="181.5" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
