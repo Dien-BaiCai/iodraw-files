@@ -93,6 +93,12 @@
         <mxCell id="16VfP_IXKdBHO_dfxhSN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=1;" parent="VbYp5SbydSx3IrbVefZj-19" source="VbYp5SbydSx3IrbVefZj-18" target="VbYp5SbydSx3IrbVefZj-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="16VfP_IXKdBHO_dfxhSN-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;" parent="VbYp5SbydSx3IrbVefZj-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="139" as="sourcePoint" />
+            <mxPoint x="118.88" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VbYp5SbydSx3IrbVefZj-28" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;\begin{equation}&lt;br&gt;\text{Is } |p_2| \geq \frac{\theta_{\text{max},i}^\bullet - v_s^2}{a_{\text{max}}} \text{?}&lt;br&gt;\end{equation}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-562.5" y="538" width="60" height="30" as="geometry" />
         </mxCell>
@@ -113,12 +119,6 @@
         </mxCell>
         <mxCell id="16VfP_IXKdBHO_dfxhSN-23" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-539" y="601" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="16VfP_IXKdBHO_dfxhSN-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VbYp5SbydSx3IrbVefZj-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-378" y="554" as="sourcePoint" />
-            <mxPoint x="-555" y="400" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="16VfP_IXKdBHO_dfxhSN-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-3" target="VbYp5SbydSx3IrbVefZj-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
