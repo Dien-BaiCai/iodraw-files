@@ -19,7 +19,7 @@
         <mxCell id="jayv7KYbISYwRoTAkB-e-4" value="EtherCAT&lt;div&gt;Real-Time Bus&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="231" y="396" width="120" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="jayv7KYbISYwRoTAkB-e-5" value="Servo&lt;div&gt;Motor&lt;/div&gt;&lt;div&gt;Driver&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jayv7KYbISYwRoTAkB-e-5" value="Servo&lt;div&gt;Motor&lt;/div&gt;&lt;div&gt;Driver&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="451" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jayv7KYbISYwRoTAkB-e-6" value="Robot&lt;div&gt;Joint&lt;/div&gt;&lt;div&gt;Actuator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
