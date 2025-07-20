@@ -7,7 +7,7 @@
         <mxCell id="-wk0IsIf-40VCB_SGS8t-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Joint-Level Minimal-Time&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Motion Planning via&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Trapezoidal Velocity Profiling&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f1e7;gradientColor=none;strokeColor=#679098;fontFamily=Times New Roman;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-496" y="77" width="242" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-wk0IsIf-40VCB_SGS8t-1" value="Determine MotionDirection" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6C8EBF;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="-wk0IsIf-40VCB_SGS8t-1" value="Determine MotionDirection" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6C8EBF;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-497" y="157" width="244" height="110" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
