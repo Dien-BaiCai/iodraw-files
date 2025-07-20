@@ -13,6 +13,9 @@
         <mxCell id="jayv7KYbISYwRoTAkB-e-2" value="EtherCAT&lt;div&gt;Real-Time Bus&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="231" y="319" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jayv7KYbISYwRoTAkB-e-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="242" y="429" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
