@@ -264,16 +264,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-47" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="39" y="319" width="60" height="30" as="geometry" />
+          <mxGeometry x="407" y="440.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-48" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-47.5" y="399" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BSMf97rxSCMEbcBgawUs-49" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-430.5" y="561" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BSMf97rxSCMEbcBgawUs-50" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-517" y="641" width="60" height="30" as="geometry" />
+          <mxGeometry x="286" y="533.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
