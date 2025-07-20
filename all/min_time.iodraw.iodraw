@@ -255,21 +255,6 @@
             <mxPoint x="198" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSMf97rxSCMEbcBgawUs-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BSMf97rxSCMEbcBgawUs-8" target="BSMf97rxSCMEbcBgawUs-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="565" y="446.5" as="sourcePoint" />
-            <mxPoint x="365.50000000000045" y="381" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="381.5" />
-              <mxPoint x="406" y="382.5" />
-              <mxPoint x="384" y="371.5" />
-              <mxPoint x="319" y="382" />
-              <mxPoint x="319" y="372" />
-              <mxPoint x="330" y="363" />
-              <mxPoint x="373" y="360.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-47" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="449.75" y="458" width="60" height="30" as="geometry" />
         </mxCell>
