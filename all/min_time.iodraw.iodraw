@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1181" dy="239" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2112" dy="866" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -186,18 +186,6 @@
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-30" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;\begin{align*}&lt;br&gt;t_s &amp;amp;= \left[ \frac{t_1}{2}, \ t_2, \ t_0 + \frac{t_1}{2} \right] \\&lt;br&gt;s_a &amp;amp;= \left[ s_s, \ 0, \ -s_s \right]&lt;br&gt;\end{align*}&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="742.5" y="729" width="181.5" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="BSMf97rxSCMEbcBgawUs-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-wk0IsIf-40VCB_SGS8t-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-352" y="495" as="sourcePoint" />
-            <mxPoint x="-731" y="352" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-495" y="517" />
-              <mxPoint x="-407" y="517" />
-              <mxPoint x="-495" y="495" />
-              <mxPoint x="-561" y="495" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="VbYp5SbydSx3IrbVefZj-18" value="&#xa;&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\begin{align}&#xa;p_2 &amp;amp;= \Delta\theta_i - p_1&#xa;\end{align}&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-693" y="429" width="60" height="30" as="geometry" />
