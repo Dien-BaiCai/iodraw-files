@@ -40,9 +40,6 @@
         <mxCell id="16VfP_IXKdBHO_dfxhSN-9" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot;&gt;&lt;font color=&quot;#1c1f23&quot; face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt; \begin{equation*}&lt;br style=&quot;font-size: 13px;&quot;&gt;t_1, \quad t_2&lt;br style=&quot;font-size: 13px;&quot;&gt;\end{equation*}&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="-wk0IsIf-40VCB_SGS8t-8" vertex="1">
           <mxGeometry x="99" y="75.84000000000003" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BSMf97rxSCMEbcBgawUs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;" vertex="1" parent="-wk0IsIf-40VCB_SGS8t-8">
-          <mxGeometry x="-385" y="-345" width="649" height="672" as="geometry" />
-        </mxCell>
         <mxCell id="16VfP_IXKdBHO_dfxhSN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-10" target="-wk0IsIf-40VCB_SGS8t-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -143,6 +140,9 @@
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="11" y="363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSMf97rxSCMEbcBgawUs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-66" y="66" width="649" height="672" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
