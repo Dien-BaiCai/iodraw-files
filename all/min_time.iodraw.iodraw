@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BSMf97rxSCMEbcBgawUs-5" value="Determine MotionDirection" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6C8EBF;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="198" width="244" height="110" as="geometry">
+          <mxGeometry x="242" y="154" width="244" height="110" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
