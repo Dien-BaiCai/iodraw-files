@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="BSMf97rxSCMEbcBgawUs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-693" y="48" width="638" height="788" as="geometry" />
+        </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Joint-Level Minimal-Time&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Motion Planning via&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Trapezoidal Velocity Profiling&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f1e7;gradientColor=none;strokeColor=#679098;fontFamily=Times New Roman;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-496" y="77" width="242" height="60" as="geometry" />
         </mxCell>
@@ -119,9 +122,6 @@
             <mxPoint x="-378" y="554" as="sourcePoint" />
             <mxPoint x="-555" y="400" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BSMf97rxSCMEbcBgawUs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-671" y="66" width="616" height="803" as="geometry" />
         </mxCell>
         <mxCell id="16VfP_IXKdBHO_dfxhSN-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-wk0IsIf-40VCB_SGS8t-3" target="VbYp5SbydSx3IrbVefZj-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
