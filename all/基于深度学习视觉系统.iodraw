@@ -13,7 +13,7 @@
         <mxCell id="dbW85M1nCYCYTtM8qjOR-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets.iqr-robot.com/wp-content/uploads/2023/08/20230809103248737319.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="146.51" y="187" width="168.99" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dbW85M1nCYCYTtM8qjOR-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbW85M1nCYCYTtM8qjOR-3" value="RGB-D&lt;div&gt;Camera&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="385" y="418" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
