@@ -29,7 +29,7 @@
           <mxGeometry x="924" y="253" width="187" height="341" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="165" width="275" height="145" as="geometry" />
+          <mxGeometry x="330" y="165" width="275" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-6" value="Estimate&amp;nbsp;&lt;div&gt;Maturity&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="198" width="88" height="55" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-11" value="Visual acquisition of image information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="142.99" y="528" width="132" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_CpjQtOPV_Qt9947uzoq-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="363" y="286" width="198" height="429" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
