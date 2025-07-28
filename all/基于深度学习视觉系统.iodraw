@@ -14,7 +14,7 @@
           <mxGeometry x="132" y="242" width="168.99" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dbW85M1nCYCYTtM8qjOR-3" value="RGB-D&lt;div&gt;Camera&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="186.49" y="308" width="60" height="30" as="geometry" />
+          <mxGeometry x="186.49" y="363" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="638" y="187" width="198" height="429" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="968" y="319" width="99" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-11" value="Visual acquisition of image information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="176" y="440" width="132" height="66" as="geometry" />
+          <mxGeometry x="150.49" y="429" width="132" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
