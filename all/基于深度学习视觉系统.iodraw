@@ -44,7 +44,7 @@
           <mxGeometry x="968" y="319" width="99" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-11" value="Arm Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161.5" y="352" width="110" height="77" as="geometry" />
+          <mxGeometry x="176" y="440" width="110" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
