@@ -8,22 +8,22 @@
           <mxGeometry x="132" y="110" width="792" height="33" as="geometry" />
         </mxCell>
         <mxCell id="dbW85M1nCYCYTtM8qjOR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="117.5" y="176" width="198" height="429" as="geometry" />
+          <mxGeometry x="110" y="275" width="198" height="429" as="geometry" />
         </mxCell>
         <mxCell id="dbW85M1nCYCYTtM8qjOR-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets.iqr-robot.com/wp-content/uploads/2023/08/20230809103248737319.png;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="132" y="242" width="168.99" height="55" as="geometry" />
+          <mxGeometry x="124.5" y="341" width="168.99" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dbW85M1nCYCYTtM8qjOR-3" value="RGB-D&lt;div&gt;Camera&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="186.49" y="363" width="60" height="30" as="geometry" />
+          <mxGeometry x="178.99" y="462" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="638" y="187" width="198" height="429" as="geometry" />
+          <mxGeometry x="671" y="275" width="198" height="429" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-1" value="Robot&lt;div&gt;Arm IK&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="671" y="234" width="120" height="60" as="geometry" />
+          <mxGeometry x="704" y="322" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-2" value="Generate&lt;div&gt;Trajectory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="671" y="319" width="120" height="60" as="geometry" />
+          <mxGeometry x="704" y="407" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="924" y="253" width="187" height="341" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry x="495" y="198" width="88" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-9" value="Arm Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="682" y="462" width="110" height="77" as="geometry" />
+          <mxGeometry x="715" y="550" width="110" height="77" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-10" value="Move then Pick" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="968" y="319" width="99" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_CpjQtOPV_Qt9947uzoq-11" value="Visual acquisition of image information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150.49" y="429" width="132" height="66" as="geometry" />
+          <mxGeometry x="142.99" y="528" width="132" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
