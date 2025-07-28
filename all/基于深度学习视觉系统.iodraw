@@ -19,6 +19,9 @@
         <mxCell id="_CpjQtOPV_Qt9947uzoq-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="737" y="176" width="198" height="429" as="geometry" />
         </mxCell>
+        <mxCell id="_CpjQtOPV_Qt9947uzoq-1" value="Robot&lt;div&gt;Arm IK&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="223" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
