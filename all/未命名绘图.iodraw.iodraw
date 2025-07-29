@@ -218,8 +218,8 @@
             <mxPoint x="770" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3S5x-MQT1EtJLWqv3-_H-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="3S5x-MQT1EtJLWqv3-_H-80" value="OREPA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
