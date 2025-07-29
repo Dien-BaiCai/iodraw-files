@@ -163,10 +163,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3S5x-MQT1EtJLWqv3-_H-58" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 25px;&quot;&gt;Input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="140" height="40" as="geometry" />
+          <mxGeometry x="560" y="280" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3S5x-MQT1EtJLWqv3-_H-59" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Output&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="390" y="680" width="140" height="40" as="geometry" />
+          <mxGeometry x="560" y="670" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
