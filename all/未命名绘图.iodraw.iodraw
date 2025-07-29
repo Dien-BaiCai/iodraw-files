@@ -106,7 +106,7 @@
         <mxCell id="3S5x-MQT1EtJLWqv3-_H-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3S5x-MQT1EtJLWqv3-_H-17" target="3S5x-MQT1EtJLWqv3-_H-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3S5x-MQT1EtJLWqv3-_H-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Pooling 3&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: rgb(255, 255, 255); color: rgb(77, 77, 77); text-align: start;&quot;&gt;x3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=17;shadow=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="3S5x-MQT1EtJLWqv3-_H-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Pooling 3&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: rgb(255, 255, 255); color: rgb(77, 77, 77); text-align: start;&quot;&gt;x3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=17;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-31" y="503" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3S5x-MQT1EtJLWqv3-_H-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="3S5x-MQT1EtJLWqv3-_H-18" target="3S5x-MQT1EtJLWqv3-_H-24">
