@@ -118,7 +118,7 @@
         <mxCell id="o2ORzMd0kIusMlgkRQnr-48" value="Split" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="80" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-49" value="Split" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o2ORzMd0kIusMlgkRQnr-49" value="True/False" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
