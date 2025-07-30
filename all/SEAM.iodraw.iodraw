@@ -34,7 +34,7 @@
         <mxCell id="wCoMMq36ysTn3rVL-jZE-11" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="265" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wCoMMq36ysTn3rVL-jZE-12" value="···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="wCoMMq36ysTn3rVL-jZE-12" value="···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="265" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
