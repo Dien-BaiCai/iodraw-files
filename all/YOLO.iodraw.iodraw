@@ -4,38 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-2" value="Conv k=3 s=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-3" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="340" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-7" value="SPPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-8" value="C2PSA-SEAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="490" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="590" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-12" value="Conv k=3 s=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="90" height="20" as="geometry" />
@@ -77,22 +56,22 @@
           <mxGeometry x="430" y="460" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-26" value="Conv k=3 s=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="310" width="90" height="20" as="geometry" />
+          <mxGeometry x="560" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-28" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="340" width="90" height="20" as="geometry" />
+          <mxGeometry x="560" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-29" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="370" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-30" value="Conv k=3 s=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="410" width="90" height="20" as="geometry" />
+          <mxGeometry x="560" y="420" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-31" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="440" width="90" height="20" as="geometry" />
+          <mxGeometry x="560" y="450" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-32" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="490" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
