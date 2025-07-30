@@ -16,7 +16,7 @@
         <mxCell id="wCoMMq36ysTn3rVL-jZE-5" value="PSABlock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCoMMq36ysTn3rVL-jZE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wCoMMq36ysTn3rVL-jZE-6" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wCoMMq36ysTn3rVL-jZE-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="wCoMMq36ysTn3rVL-jZE-11" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="265" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wCoMMq36ysTn3rVL-jZE-12" value="···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="wCoMMq36ysTn3rVL-jZE-12" value="···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="265" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
