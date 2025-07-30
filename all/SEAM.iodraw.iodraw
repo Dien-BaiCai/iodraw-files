@@ -186,8 +186,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c1gfpnkx3R4J_hph6AtA-25" value="(a) Improved C2PSA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="610" width="170" height="30" as="geometry" />
+        <mxCell id="c1gfpnkx3R4J_hph6AtA-25" value="(a) Improved C2PSA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="585" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1gfpnkx3R4J_hph6AtA-26" value="(a) Improved C2PSA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="595" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
