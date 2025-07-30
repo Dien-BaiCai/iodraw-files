@@ -95,22 +95,22 @@
           <mxGeometry x="65" y="40" width="125" height="530" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-41" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="50" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="50" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-42" value="MaxPool2d" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="80" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-43" value="MaxPool2d" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="110" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="110" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-44" value="MaxPool2d" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="140" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="140" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-45" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="170" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="170" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-46" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="200" width="100" height="20" as="geometry" />
+          <mxGeometry x="260" y="200" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-47" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="50" width="100" height="20" as="geometry" />
