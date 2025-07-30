@@ -82,7 +82,7 @@
         <mxCell id="YatUvGSq0vVgyM_KDl5M-15" value="SEAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YatUvGSq0vVgyM_KDl5M-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;fontSize=34;fontFamily=Tahoma;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="YatUvGSq0vVgyM_KDl5M-16" value="&#xa;×&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;fontSize=34;fontFamily=Tahoma;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="815" y="480" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
