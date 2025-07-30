@@ -7,7 +7,7 @@
         <mxCell id="o2ORzMd0kIusMlgkRQnr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o2ORzMd0kIusMlgkRQnr-2" value="Conv k=3 s=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
