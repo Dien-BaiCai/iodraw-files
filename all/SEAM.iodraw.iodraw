@@ -92,7 +92,10 @@
           <mxGeometry x="800" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c1gfpnkx3R4J_hph6AtA-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="50" height="100" as="geometry" />
+          <mxGeometry x="160" y="270" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c1gfpnkx3R4J_hph6AtA-3" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="275" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
