@@ -10,13 +10,13 @@
         <mxCell id="wCoMMq36ysTn3rVL-jZE-3" value="Split" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="230" y="180" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCoMMq36ysTn3rVL-jZE-4" value="PSABlock" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wCoMMq36ysTn3rVL-jZE-4" value="PSABlock" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="230" y="250" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCoMMq36ysTn3rVL-jZE-5" value="PSABlock" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wCoMMq36ysTn3rVL-jZE-5" value="PSABlock" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="230" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCoMMq36ysTn3rVL-jZE-6" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wCoMMq36ysTn3rVL-jZE-6" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="230" y="410" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wCoMMq36ysTn3rVL-jZE-7" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
