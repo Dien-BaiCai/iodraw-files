@@ -50,7 +50,13 @@
           <mxGeometry x="300" y="340" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2ORzMd0kIusMlgkRQnr-17" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2ORzMd0kIusMlgkRQnr-18" value="Conv k=3 s=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o2ORzMd0kIusMlgkRQnr-19" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
