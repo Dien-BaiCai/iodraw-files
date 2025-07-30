@@ -97,8 +97,8 @@
         <mxCell id="o2ORzMd0kIusMlgkRQnr-41" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o2ORzMd0kIusMlgkRQnr-42" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="95" height="20" as="geometry" />
+        <mxCell id="o2ORzMd0kIusMlgkRQnr-42" value="MaxPool2d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
