@@ -17,7 +17,7 @@
           <mxGeometry x="850" y="200" width="96.67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m7n2Px5v03ANJEOMduOC-6" value="Jetson Xavier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="688.58" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="674.2900000000001" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
