@@ -28,7 +28,7 @@
             <mxPoint x="1150" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toqQNpAuJZH3rz8DyjMC-5" value="ECAT-Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="toqQNpAuJZH3rz8DyjMC-5" value="TCP Signal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1060" y="250" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
