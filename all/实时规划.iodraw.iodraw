@@ -13,8 +13,8 @@
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="390" y="170" width="290" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#316298;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="810" y="266.25" width="220" height="283.75" as="geometry" />
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#316298;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="266.25" width="220" height="283.75" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-5" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-180;size=10;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="370" height="50" as="geometry" />
@@ -49,7 +49,7 @@
             <mxPoint x="444" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-14" value="" style="endArrow=none;html=1;rounded=0;opacity=40;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-14" value="" style="endArrow=none;html=1;rounded=0;opacity=40;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443" y="470" as="sourcePoint" />
             <mxPoint x="770" y="470" as="targetPoint" />
