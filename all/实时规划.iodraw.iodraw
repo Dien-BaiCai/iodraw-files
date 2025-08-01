@@ -129,8 +129,8 @@
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-59" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Trajectory Planning&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="477.94" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-67" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#fffced&quot;&gt;Real-Time&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#fffced&quot;&gt;Motion Controller&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="430" width="240" height="40" as="geometry" />
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-67" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#fffced&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Real-time capability&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="521.91" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
