@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;strokeColor=none;fillColor=#fff2cc;gradientColor=#FFFCED;gradientDirection=east;" parent="1" vertex="1">
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;strokeColor=none;fillColor=#fff2cc;gradientColor=#FFFCED;gradientDirection=east;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="290" y="590" width="620" height="300" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-29" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;opacity=70;curved=0;" parent="1" source="gyTMCFcRsgCPezdUO8Lx-1" target="gyTMCFcRsgCPezdUO8Lx-85" edge="1">
@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="554" y="300" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#316298;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
