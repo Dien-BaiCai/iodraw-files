@@ -55,6 +55,9 @@
             <mxPoint x="770" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACMAAAAOCAYAAACl66WxAAACDElEQVRIDW1VQU7EMAzsTznsG3nBHjiuuCAhsdsi4MQBVkqrBbY18ngmcQuHKGlsj8djR+3m0ts8puXfWEPssA3hI5vuSm/LOGB5zCJ7kb9jaAmXuzDG3srnkx0Oe+vWZAgyRpJGMt+LeJBtZEhehYwi4bH5rPhEburt+v26JZMcnXmtqoF59SKgcyRjbFVH8XG/AC/hk7TUXMpRZFzqYCojZKeUnjxaxwS4T8CIDZ+Iz/7NDzbFrtoaudkm9t3bkyvjPKzIZGICFhnsSRFhyc+/PZ4YIqecIANVEECFBLoKUquiilCqzVKbLy9oowxIRJwnVnIUybyO1zlIJuOsQ4mcKJ1RLZOpYsRw6PGS6F9nLhdA5VQwZjDsoYzYSkIHX0m8qRRAIuS7zkokMjEvV2FpT0Q0i56vtikGOEhomOWIFmRFBJruojWJWLJVHNyd0mOgYiTHAdbEp3b8w76Cuo3zJFWgJGIcg6uSTt/jyWZf1cbcZWhPOwZQQCJH5jlwc3YVsfI9yLZYJ1rbnv10pn9XK+Kztmkwu7zYMj3HIAs4P3OowjkRoO/w9YKoHBWKV7NuIQi6HwY4XvGqTUs52df5yT7eH+1yPrZ/Vk5Uz6nfBP0rfVMnCDK5ClAcyHOA5+I9PJpNvT3c7223u7G7/a0tP2/t2QOAr0zPv85NSiqySqgdCUPN2g3ZuP8Cq7VJA157mTkAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="35" height="14" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
