@@ -105,6 +105,9 @@
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-58" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;Deceleration&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;Phase&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="gyTMCFcRsgCPezdUO8Lx-32">
           <mxGeometry x="280" y="70" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-59" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Trajectory Planning&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="gyTMCFcRsgCPezdUO8Lx-32">
+          <mxGeometry x="40" y="7.939999999999998" width="300" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Online Trajectory Generation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="314" y="400" width="240" height="40" as="geometry" />
         </mxCell>
@@ -128,9 +131,6 @@
               <mxPoint x="730" y="240" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-59" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Trajectory Planning&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="250" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
