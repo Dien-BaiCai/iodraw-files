@@ -138,7 +138,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gyTMCFcRsgCPezdUO8Lx-73" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); background-color: initial;&quot;&gt;Continuity of velocity and displacement resilient transition&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=none;labelBorderColor=default;align=center;" vertex="1" parent="1">
+        <mxCell id="gyTMCFcRsgCPezdUO8Lx-73" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); background-color: initial;&quot;&gt;&lt;sup&gt;Continuity of velocity and displacement resilient transition&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=none;labelBorderColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="317" y="757.75" width="192.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;edgeStyle=none;" edge="1" parent="1">
