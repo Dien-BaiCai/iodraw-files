@@ -221,8 +221,8 @@
         <mxCell id="SYl3PQ9-bC_huUxTJV48-26" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Real - time Feedback and Adjustment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1037" y="808.97" width="212" height="52.06" as="geometry" />
         </mxCell>
-        <mxCell id="SYl3PQ9-bC_huUxTJV48-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAbAQMAAADlOVtdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAADUExURcvO+auY9AMAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAOSURBVCjPYxgFcMDAAAABDgABZW81BAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="950" width="40" height="15" as="geometry" />
+        <mxCell id="SYl3PQ9-bC_huUxTJV48-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAbAQMAAADlOVtdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAADUExURcvO+auY9AMAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAOSURBVCjPYxgFcMDAAAABDgABZW81BAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="950" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
