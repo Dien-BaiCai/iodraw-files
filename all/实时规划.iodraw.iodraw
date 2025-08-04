@@ -218,7 +218,7 @@
           <mxGeometry x="1000" y="714.12" width="139.97" height="180" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-8" value="5-DOF Robotic arm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="810" width="99" height="30" as="geometry" />
+          <mxGeometry x="1150" y="800" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
