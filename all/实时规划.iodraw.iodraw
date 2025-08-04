@@ -7,13 +7,13 @@
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-22" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" parent="1" source="gyTMCFcRsgCPezdUO8Lx-15" target="gyTMCFcRsgCPezdUO8Lx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="815" />
+              <mxPoint x="240" y="800" />
               <mxPoint x="240" y="533" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;strokeColor=none;fillColor=#fff2cc;gradientColor=#FFFCED;gradientDirection=east;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="290" y="590" width="620" height="300" as="geometry" />
+          <mxGeometry x="290" y="590" width="620" height="280" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-29" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;opacity=70;curved=0;" parent="1" source="gyTMCFcRsgCPezdUO8Lx-1" target="gyTMCFcRsgCPezdUO8Lx-85" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -182,7 +182,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-78" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\theta_{f,i}$$&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\theta_{f,i}^\bullet$$&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\theta_{0,i}$$&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\theta_{0,i}^\bullet$$&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\theta_{\text{max},i}^\bullet$$&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;$$\alpha_{\text{max},i}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="510" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-83" value="$$\Delta t = 1{ms}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="236.25" width="60" height="27.5" as="geometry" />
