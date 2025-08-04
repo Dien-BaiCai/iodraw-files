@@ -227,8 +227,8 @@
         <mxCell id="SYl3PQ9-bC_huUxTJV48-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAbAQMAAADlOVtdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAADUExURcl3bB1+UlcAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAOSURBVCjPYxgFcMDAAAABDgABZW81BAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="930" y="675" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SYl3PQ9-bC_huUxTJV48-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAbAQMAAADlOVtdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAADUExURb32yySsDZoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAOSURBVCjPYxgFcMDAAAABDgABZW81BAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1000" width="72" height="27" as="geometry" />
+        <mxCell id="SYl3PQ9-bC_huUxTJV48-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAbAQMAAADlOVtdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAADUExURb32yySsDZoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAOSURBVCjPYxgFcMDAAAABDgABZW81BAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="930" y="675" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
