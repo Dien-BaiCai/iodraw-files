@@ -226,6 +226,9 @@
         <mxCell id="68WxVVcHXJJ2wyn5qPAN-2" value="Mean： Axis 1:7.99%;Axis 2:6.72%;Axis 3:19.48%;Axis 4:15.69%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontStyle=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="660" y="920" width="210" height="13.09" as="geometry" />
         </mxCell>
+        <mxCell id="68WxVVcHXJJ2wyn5qPAN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.817;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gyTMCFcRsgCPezdUO8Lx-83" target="gyTMCFcRsgCPezdUO8Lx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
