@@ -243,7 +243,7 @@
           <mxGeometry x="510" y="860" width="222.55" height="170" as="geometry" />
         </mxCell>
         <mxCell id="68WxVVcHXJJ2wyn5qPAN-2" value="Mean： Axis 1:7.99%;Axis 2:6.72%;Axis 3:19.48%;Axis 4:15.69%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontStyle=1;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="520" y="850" width="200" height="19.09" as="geometry" />
+          <mxGeometry x="520" y="854" width="230" height="19.09" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
