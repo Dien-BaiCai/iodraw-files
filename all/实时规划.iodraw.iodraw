@@ -8,7 +8,7 @@
           <mxGeometry x="490" y="220" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;dashed=1;fontColor=#333333;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="986" y="480" width="314" height="410" as="geometry" />
+          <mxGeometry x="986" y="460" width="314" height="410" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-22" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" parent="1" source="gyTMCFcRsgCPezdUO8Lx-15" target="gyTMCFcRsgCPezdUO8Lx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -180,22 +180,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-23" value="&lt;h3 style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; line-height: var(--md-box-samantha-h3-line-height); margin-top: var(--md-box-samantha-h3-margin-top); font-size: 14px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255); margin-bottom: var(--md-box-samantha-h3-margin-bottom) !important; padding-bottom: 0px !important;&quot; class=&quot;header-vfC6AV auto-hide-last-sibling-br&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Recognition of Mature Tomato - Related Information&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="510" width="210" height="50" as="geometry" />
+          <mxGeometry x="1040" y="490" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SYl3PQ9-bC_huUxTJV48-24" target="SYl3PQ9-bC_huUxTJV48-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-24" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Rule - based Dynamic Task Allocation and Optimization&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="610" width="210" height="50" as="geometry" />
+          <mxGeometry x="1040" y="590" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SYl3PQ9-bC_huUxTJV48-25" target="SYl3PQ9-bC_huUxTJV48-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-25" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Efficient Utilization of Synchronous Belt Linear Module&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="710" width="210" height="50" as="geometry" />
+          <mxGeometry x="1040" y="690" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-26" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Real - time Feedback and Adjustment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="810" width="210" height="50" as="geometry" />
+          <mxGeometry x="1040" y="790" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SYl3PQ9-bC_huUxTJV48-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAbAQMAAADlOVtdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAADUExURcvO+auY9AMAAAAJcEhZcwAAFxEAABcRAcom8z8AAAAOSURBVCjPYxgFcMDAAAABDgABZW81BAAAAABJRU5ErkJggg==;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="600" width="30" height="20" as="geometry" />
