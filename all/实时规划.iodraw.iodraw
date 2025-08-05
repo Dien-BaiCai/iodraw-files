@@ -243,7 +243,7 @@
           <mxGeometry x="450" y="520" width="576" height="440" as="geometry" />
         </mxCell>
         <mxCell id="68WxVVcHXJJ2wyn5qPAN-2" value="Mean" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="490" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="520" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
