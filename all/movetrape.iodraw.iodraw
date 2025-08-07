@@ -243,7 +243,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0djNgKEtw3aNNKazXelu-48" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="693.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1700" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0djNgKEtw3aNNKazXelu-49" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="575" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
