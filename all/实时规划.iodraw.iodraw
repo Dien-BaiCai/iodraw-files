@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kd_cOsQxifpNsV9kpI0y-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700;&quot;&gt;When two robotic arms pick fruits from the same tomato vine, if either robotic arm makes contact with its target, the other target will displace, resulting in the failure of adsorption&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="750" y="240" width="240" height="190" as="geometry" />
+          <mxGeometry x="760" y="240" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="68WxVVcHXJJ2wyn5qPAN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="220" width="160" height="90" as="geometry" />
@@ -239,9 +239,6 @@
               <mxPoint x="710" y="733" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kd_cOsQxifpNsV9kpI0y-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;When two robotic arms pick fruits from the same tomato vine, if either robotic arm makes contact with its target, the other target will displace, resulting in the failure of adsorption&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gyTMCFcRsgCPezdUO8Lx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#316298;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1040" y="240" width="260" height="188.93" as="geometry" />
