@@ -208,10 +208,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1500" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1610" y="605" />
-              <mxPoint x="1610" y="453" />
+              <mxPoint x="1600" y="605" />
+              <mxPoint x="1600" y="453" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0djNgKEtw3aNNKazXelu-29" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
