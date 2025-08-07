@@ -8,7 +8,7 @@
           <mxGeometry x="-55" y="517" width="408" height="393" as="geometry" />
         </mxCell>
         <mxCell id="aDCNoD_riNs0uRK3TLFy-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-35.37" y="77" width="408" height="393" as="geometry" />
+          <mxGeometry x="-34.37" y="77" width="408" height="385" as="geometry" />
         </mxCell>
         <mxCell id="-wk0IsIf-40VCB_SGS8t-0" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Joint-Level Minimal-Time&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Motion Planning via&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Trapezoidal Velocity Profiling&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f1e7;gradientColor=none;strokeColor=#679098;fontFamily=Times New Roman;shadow=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-496" y="77" width="242" height="60" as="geometry" />
