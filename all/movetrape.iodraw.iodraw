@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0djNgKEtw3aNNKazXelu-32" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Solve Quadratic Equation for Transition Profile&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;startSize=47;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="1681" y="533.5" width="504" height="166.5" as="geometry">
+          <mxGeometry x="1681" y="540.25" width="504" height="166.5" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
