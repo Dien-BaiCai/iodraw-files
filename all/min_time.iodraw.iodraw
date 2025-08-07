@@ -193,18 +193,18 @@
           <mxGeometry x="137.75" y="62.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDCNoD_riNs0uRK3TLFy-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Trapezoidal Velocity Profile&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6c8ebf;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="493.5" width="335.5" height="121" as="geometry">
+          <mxGeometry x="473" y="493.5" width="335.5" height="121" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aDCNoD_riNs0uRK3TLFy-22" value="&lt;ul style=&quot;font-size: 18px;&quot;&gt;&lt;li style=&quot;text-align: left; font-size: 18px;&quot;&gt;Use acceleration， constant velocity， deceleration&lt;/li&gt;&lt;li style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; white-space: pre; font-size: 18px;&quot;&gt;Compute            &lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=18;" vertex="1" parent="aDCNoD_riNs0uRK3TLFy-21">
-          <mxGeometry x="-11" y="35" width="335.5" height="79" as="geometry" />
+          <mxGeometry y="35" width="335.5" height="79" as="geometry" />
         </mxCell>
         <mxCell id="aDCNoD_riNs0uRK3TLFy-23" value="&lt;div style=&quot;text-align: start; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#1c1f23&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 18px;&quot;&gt; \begin{equation*}&lt;br style=&quot;font-size: 18px;&quot;&gt;t_1, \quad t_2&lt;br style=&quot;font-size: 18px;&quot;&gt;\end{equation*}&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;shadow=1;" vertex="1" parent="aDCNoD_riNs0uRK3TLFy-21">
-          <mxGeometry x="-22" y="80" width="335.5" height="30" as="geometry" />
+          <mxGeometry y="80" width="335.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDCNoD_riNs0uRK3TLFy-24" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; text-align: start; color: var(--md-box-samantha-deep-text-color) !important;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Assembly Stage Duration&lt;/font&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EAF3FC;strokeColor=#6c8ebf;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="670.38" width="335.5" height="71.37" as="geometry">
+          <mxGeometry x="473" y="670.38" width="335.5" height="71.37" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
