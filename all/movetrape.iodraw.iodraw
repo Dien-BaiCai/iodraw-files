@@ -151,7 +151,7 @@
           <mxGeometry x="98" y="38" width="322" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0djNgKEtw3aNNKazXelu-9" value="Call moveTrape Function per Joint" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;startSize=30;shadow=1;swimlaneFillColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="265" y="235.5" width="275" height="137.5" as="geometry">
+          <mxGeometry x="1005" y="399" width="515" height="191" as="geometry">
             <mxRectangle x="200" y="120" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
