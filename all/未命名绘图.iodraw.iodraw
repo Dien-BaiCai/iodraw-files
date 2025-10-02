@@ -19,14 +19,14 @@
         <mxCell id="KRklkPC1azX3Z0QEKK0X-6" value="Output shaft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="350" y="880" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRklkPC1azX3Z0QEKK0X-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.192;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FbEuuyqt-pGB6DfAMTox-2">
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.192;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FbEuuyqt-pGB6DfAMTox-2" target="KRklkPC1azX3Z0QEKK0X-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="515" y="760" as="sourcePoint" />
             <mxPoint x="400" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-10" value="Housing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="290" y="660" width="190" height="30" as="geometry" />
+          <mxGeometry x="300" y="660" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KRklkPC1azX3Z0QEKK0X-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-12" value="Stator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="430" y="642" width="190" height="30" as="geometry" />
+          <mxGeometry x="430" y="650" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-13" value="Winding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="530" y="642" width="190" height="30" as="geometry" />
