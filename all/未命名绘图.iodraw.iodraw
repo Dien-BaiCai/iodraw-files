@@ -128,7 +128,7 @@
           <mxGeometry x="1000" y="710" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-38" value="Stator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="1070" width="190" height="30" as="geometry" />
+          <mxGeometry x="1067.5" y="1050" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-40" value="Housing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1022" y="1120" width="190" height="30" as="geometry" />
@@ -172,10 +172,10 @@
             <mxPoint x="1113" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRklkPC1azX3Z0QEKK0X-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KRklkPC1azX3Z0QEKK0X-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="965" as="sourcePoint" />
-            <mxPoint x="1078" y="995" as="targetPoint" />
+            <mxPoint x="860" y="1120" as="sourcePoint" />
+            <mxPoint x="1048" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
