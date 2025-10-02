@@ -115,6 +115,9 @@
             <mxPoint x="550" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-33" value="Output shaft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="360" y="890" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
