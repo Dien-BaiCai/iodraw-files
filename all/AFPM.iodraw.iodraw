@@ -16,7 +16,7 @@
             <mxPoint x="468.5" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRklkPC1azX3Z0QEKK0X-6" value="Output shaft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-6" value="Output shaft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="353.5" y="930" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.192;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FbEuuyqt-pGB6DfAMTox-2" target="KRklkPC1azX3Z0QEKK0X-10" edge="1">
@@ -85,7 +85,7 @@
         <mxCell id="KRklkPC1azX3Z0QEKK0X-25" value="Shaft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="950" y="672" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRklkPC1azX3Z0QEKK0X-26" value="Planet carrier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-26" value="Planet carrier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="423.5" y="840" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="KRklkPC1azX3Z0QEKK0X-26" edge="1">
@@ -106,7 +106,7 @@
             <mxPoint x="463.5" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRklkPC1azX3Z0QEKK0X-30" value="Sun gear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-30" value="Sun gear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="383.5" y="1120" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KRklkPC1azX3Z0QEKK0X-30" edge="1">
@@ -133,7 +133,7 @@
         <mxCell id="KRklkPC1azX3Z0QEKK0X-40" value="Housing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1069.5" y="1160" width="118" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRklkPC1azX3Z0QEKK0X-41" value="Idler gear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="KRklkPC1azX3Z0QEKK0X-41" value="Idler gear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="483.5" y="1210" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRklkPC1azX3Z0QEKK0X-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=4;startArrow=oval;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KRklkPC1azX3Z0QEKK0X-41" edge="1">
