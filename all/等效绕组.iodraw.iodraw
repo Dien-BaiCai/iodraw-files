@@ -133,8 +133,14 @@
         <mxCell id="o9aHxnB_TIedfhtC8UHx-72" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="530" y="430" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="dcm7u9ne1o5MvSNK5Q5g-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="298" y="-190" width="80" height="80" as="geometry" />
+        <mxCell id="dcm7u9ne1o5MvSNK5Q5g-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="-190" width="158" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dcm7u9ne1o5MvSNK5Q5g-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dcm7u9ne1o5MvSNK5Q5g-3">
+          <mxGeometry x="78" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dcm7u9ne1o5MvSNK5Q5g-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dcm7u9ne1o5MvSNK5Q5g-3">
+          <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
