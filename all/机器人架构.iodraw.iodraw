@@ -7,14 +7,8 @@
         <mxCell id="toqQNpAuJZH3rz8DyjMC-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=2;dashed=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="40.5" y="160" width="655" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="toqQNpAuJZH3rz8DyjMC-20" value="USB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="683" y="290" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="toqQNpAuJZH3rz8DyjMC-48" value="(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="22" y="122" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="toqQNpAuJZH3rz8DyjMC-50" value="(b)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="691" y="122" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toqQNpAuJZH3rz8DyjMC-78" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="414" width="10" height="10" as="geometry" />
