@@ -123,7 +123,7 @@
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-10" target="oC80Phgrc7pzh1Ui6Oud-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oC80Phgrc7pzh1Ui6Oud-10" value="PCB设计及控制器实物调试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=2;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="oC80Phgrc7pzh1Ui6Oud-10" value="PCB设计及控制器实物调试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=2;dashed=1;fontColor=#000000;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="305" y="440" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-11" target="oC80Phgrc7pzh1Ui6Oud-13">
