@@ -88,7 +88,7 @@
             <mxPoint x="440" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC80Phgrc7pzh1Ui6Oud-5" value="F&lt;div&gt;P&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;电&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="oC80Phgrc7pzh1Ui6Oud-5" value="F&lt;div&gt;P&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;电&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-6">
@@ -96,13 +96,13 @@
             <mxPoint x="440" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC80Phgrc7pzh1Ui6Oud-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;模&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;块&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;路&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="oC80Phgrc7pzh1Ui6Oud-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EherCAT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;模&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;块&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;路&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="290" y="220" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-7" target="oC80Phgrc7pzh1Ui6Oud-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oC80Phgrc7pzh1Ui6Oud-7" value="电&lt;div&gt;源&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;电&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="oC80Phgrc7pzh1Ui6Oud-7" value="电&lt;div&gt;源&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;电&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-8" target="oC80Phgrc7pzh1Ui6Oud-10">
