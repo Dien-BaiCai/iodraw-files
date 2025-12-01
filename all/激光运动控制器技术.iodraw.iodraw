@@ -80,7 +80,7 @@
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-4" target="oC80Phgrc7pzh1Ui6Oud-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oC80Phgrc7pzh1Ui6Oud-4" value="ARM模块&lt;div&gt;电路设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="oC80Phgrc7pzh1Ui6Oud-4" value="A&lt;div&gt;R&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;模块&lt;div&gt;电路&lt;/div&gt;&lt;div&gt;设计&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oC80Phgrc7pzh1Ui6Oud-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="oC80Phgrc7pzh1Ui6Oud-5">
