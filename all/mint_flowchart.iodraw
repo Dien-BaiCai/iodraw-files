@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="mint-flowchart" name="Page-1">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="960" pageHeight="640" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="960" pageHeight="640" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry x="25" y="15" width="910" height="600" as="geometry" />
         </mxCell>
         <mxCell id="title" value="视觉感知与导航控制流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#173D35;" parent="1" vertex="1">
-          <mxGeometry x="260" y="28" width="440" height="42" as="geometry" />
+          <mxGeometry x="140" y="-50" width="440" height="42" as="geometry" />
         </mxCell>
         <mxCell id="lane1" value="视觉分割与路径提取" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#DDF7EB;strokeColor=#7DD8B2;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#1B5A49;" parent="1" vertex="1">
-          <mxGeometry x="95" y="78" width="180" height="34" as="geometry" />
+          <mxGeometry x="95" y="70" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="地标定位与运动控制" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#DDF7EB;strokeColor=#7DD8B2;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#1B5A49;" parent="1" vertex="1">
-          <mxGeometry x="422.5" y="70" width="195" height="34" as="geometry" />
+          <mxGeometry x="416.25" y="70" width="207.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1" value="深度相机获取图像" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EAFBF4;strokeColor=#64C9A3;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#183D35;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="125" width="250" height="70" as="geometry" />
