@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bg" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" width="1130" height="850" as="geometry" />
+          <mxGeometry x="70" y="30" width="1130" height="760" as="geometry" />
         </mxCell>
         <mxCell id="title" value="目标检测与三维坐标发送流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#153B31;" parent="1" vertex="1">
           <mxGeometry x="360" y="25" width="480" height="48" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="470" y="195" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rThread" value="状态上报线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="860" y="195" width="260" height="50" as="geometry" />
+          <mxGeometry x="815" y="195" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v1" value="初始化深度相机&lt;br&gt;与 YOLO 检测模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
           <mxGeometry x="80" y="285" width="260" height="62" as="geometry" />
@@ -56,16 +56,16 @@
           <mxGeometry x="470" y="660" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="r1" value="循环检查&lt;br&gt;数据队列" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
-          <mxGeometry x="860" y="285" width="260" height="62" as="geometry" />
+          <mxGeometry x="815" y="285" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="r2" value="实时上报&lt;br&gt;系统运行工况" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#D8F4E8;strokeColor=#4CB78D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
-          <mxGeometry x="860" y="405" width="260" height="62" as="geometry" />
+          <mxGeometry x="815" y="405" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="net" value="网络通信控制模块&lt;br&gt;监听 UDP 消息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#B9E8D2;strokeColor=#2D8E67;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#143D32;" parent="1" vertex="1">
-          <mxGeometry x="845" y="517" width="290" height="70" as="geometry" />
+          <mxGeometry x="800" y="517" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ctrl" value="控制线程启停&lt;br&gt;与系统状态重置" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#3FAF83;strokeColor=#277A5A;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="845" y="660" width="290" height="64" as="geometry" />
+          <mxGeometry x="800" y="660" width="290" height="64" as="geometry" />
         </mxCell>
         <mxCell id="e_start_v" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D6A4F;strokeWidth=2.4;endArrow=block;endFill=1;" parent="1" source="start" target="vThread" edge="1">
           <mxGeometry relative="1" as="geometry" />
