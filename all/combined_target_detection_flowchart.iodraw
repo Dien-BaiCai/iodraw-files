@@ -41,7 +41,7 @@
           <mxGeometry x="80" y="720" width="260" height="64" as="geometry" />
         </mxCell>
         <mxCell id="log" value="log.txt&lt;br&gt;坐标缓存" style="shape=cylinder3d;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#F3FFF9;strokeColor=#43A97D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#153B31;" parent="1" vertex="1">
-          <mxGeometry x="360" y="710" width="105" height="84" as="geometry" />
+          <mxGeometry x="370" y="722" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="监控 log.txt&lt;br&gt;日志文件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
           <mxGeometry x="470" y="285" width="260" height="62" as="geometry" />
