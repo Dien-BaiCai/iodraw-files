@@ -11,13 +11,13 @@
           <mxGeometry x="350" y="40" width="480" height="48" as="geometry" />
         </mxCell>
         <mxCell id="start" value="主程序启动" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#3FAF83;strokeColor=#277A5A;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="88" width="720" height="58" as="geometry" />
+          <mxGeometry x="230" y="90" width="720" height="58" as="geometry" />
         </mxCell>
         <mxCell id="vThread" value="视觉处理线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="90" y="195" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sThread" value="坐标发送线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="470" y="195" width="260" height="50" as="geometry" />
+          <mxGeometry x="460" y="197" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rThread" value="状态上报线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="815" y="195" width="260" height="50" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry x="375" y="726" width="95" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="监控 log.txt&lt;br&gt;日志文件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
-          <mxGeometry x="470" y="285" width="260" height="62" as="geometry" />
+          <mxGeometry x="460" y="287" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="s2" value="校验坐标数据&lt;br&gt;有效性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
-          <mxGeometry x="470" y="405" width="260" height="62" as="geometry" />
+          <mxGeometry x="460" y="407" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="s3" value="发送目标&lt;br&gt;三维坐标" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#D8F4E8;strokeColor=#4CB78D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
-          <mxGeometry x="470" y="525" width="260" height="62" as="geometry" />
+          <mxGeometry x="460" y="527" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="s4" value="控制端接收&lt;br&gt;目标坐标指令" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#C7EEDC;strokeColor=#2F9C72;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#143D32;" parent="1" vertex="1">
-          <mxGeometry x="470" y="660" width="260" height="62" as="geometry" />
+          <mxGeometry x="460" y="662" width="260" height="62" as="geometry" />
         </mxCell>
         <mxCell id="r1" value="循环检查&lt;br&gt;数据队列" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
           <mxGeometry x="815" y="285" width="260" height="62" as="geometry" />
