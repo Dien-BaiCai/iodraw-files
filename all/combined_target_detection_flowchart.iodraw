@@ -1,10 +1,10 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="combined-target-flow" name="目标检测流程图">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7FFFB;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="bg" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="1200" height="850" as="geometry" />
         </mxCell>
         <mxCell id="title" value="目标检测与三维坐标发送流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#153B31;" parent="1" vertex="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="80" y="720" width="260" height="64" as="geometry" />
         </mxCell>
         <mxCell id="log" value="log.txt&lt;br&gt;坐标缓存" style="shape=cylinder3d;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#F3FFF9;strokeColor=#43A97D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#153B31;" parent="1" vertex="1">
-          <mxGeometry x="405" y="700" width="105" height="84" as="geometry" />
+          <mxGeometry x="360" y="710" width="105" height="84" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="监控 log.txt&lt;br&gt;日志文件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
           <mxGeometry x="470" y="285" width="260" height="62" as="geometry" />
