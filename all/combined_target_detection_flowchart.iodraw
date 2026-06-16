@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bg" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry width="1200" height="850" as="geometry" />
+          <mxGeometry x="70" width="1130" height="850" as="geometry" />
         </mxCell>
         <mxCell id="title" value="目标检测与三维坐标发送流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#153B31;" parent="1" vertex="1">
           <mxGeometry x="360" y="25" width="480" height="48" as="geometry" />
