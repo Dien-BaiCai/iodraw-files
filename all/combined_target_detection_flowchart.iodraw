@@ -1,0 +1,145 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="combined-target-flow" name="目标检测流程图">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7FFFB;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry width="1200" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="title" value="目标检测与三维坐标发送流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#153B31;" parent="1" vertex="1">
+          <mxGeometry x="360" y="25" width="480" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="start" value="主程序启动" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#3FAF83;strokeColor=#277A5A;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="88" width="720" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="vThread" value="视觉处理线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="195" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sThread" value="坐标发送线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="470" y="195" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rThread" value="状态上报线程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#5BC89A;strokeColor=#2F9C72;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="860" y="195" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v1" value="初始化深度相机&lt;br&gt;与 YOLO 检测模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="80" y="285" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="v2" value="RGB 图像输入&lt;br&gt;与深度图输入" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#D8F4E8;strokeColor=#4CB78D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="80" y="385" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="v3" value="YOLO 目标检测" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#F0FCF7;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="80" y="500" width="118" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="v4" value="RGB 与深度图对齐" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#F0FCF7;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="222" y="500" width="118" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="v5" value="计算中心点&lt;br&gt;与坐标转换" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#D8F4E8;strokeColor=#4CB78D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="80" y="610" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="v6" value="获取目标三维坐标&lt;br&gt;写入 log.txt" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#C7EEDC;strokeColor=#2F9C72;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#143D32;" parent="1" vertex="1">
+          <mxGeometry x="80" y="720" width="260" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="log" value="log.txt&lt;br&gt;坐标缓存" style="shape=cylinder3d;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#F3FFF9;strokeColor=#43A97D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#153B31;" parent="1" vertex="1">
+          <mxGeometry x="405" y="700" width="105" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="监控 log.txt&lt;br&gt;日志文件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="470" y="285" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="校验坐标数据&lt;br&gt;有效性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="470" y="405" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" value="发送目标&lt;br&gt;三维坐标" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#D8F4E8;strokeColor=#4CB78D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="470" y="525" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="控制端接收&lt;br&gt;目标坐标指令" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#C7EEDC;strokeColor=#2F9C72;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#143D32;" parent="1" vertex="1">
+          <mxGeometry x="470" y="665" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" value="循环检查&lt;br&gt;数据队列" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#E8F9F1;strokeColor=#61C39D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="860" y="285" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" value="实时上报&lt;br&gt;系统运行工况" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#D8F4E8;strokeColor=#4CB78D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#173D35;" parent="1" vertex="1">
+          <mxGeometry x="860" y="405" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="net" value="网络通信控制模块&lt;br&gt;监听 UDP 消息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#B9E8D2;strokeColor=#2D8E67;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#143D32;" parent="1" vertex="1">
+          <mxGeometry x="845" y="517" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ctrl" value="控制线程启停&lt;br&gt;与系统状态重置" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#3FAF83;strokeColor=#277A5A;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="700" width="290" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="e_start_v" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D6A4F;strokeWidth=2.4;endArrow=block;endFill=1;" parent="1" source="start" target="vThread" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_start_s" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D6A4F;strokeWidth=2.4;endArrow=block;endFill=1;" parent="1" source="start" target="sThread" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_start_r" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D6A4F;strokeWidth=2.4;endArrow=block;endFill=1;" parent="1" source="start" target="rThread" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="vThread" target="v1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v1" target="v2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev3a" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v2" target="v3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev3b" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v2" target="v4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev4a" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v3" target="v5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev4b" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v4" target="v5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v5" target="v6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evlog" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="v6" target="log" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="sThread" target="s1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="s1" target="s2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="s2" target="s3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="s3" target="s4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="elog_s1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;dashed=1;endArrow=block;endFill=1;" parent="1" source="log" target="s1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="er1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="rThread" target="r1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="r1" target="r2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.2;endArrow=block;endFill=1;" parent="1" source="r2" target="net" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enet_ctrl" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2.4;endArrow=block;endFill=1;" parent="1" source="net" target="ctrl" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctrl_to_threads" value="线程控制" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#2D6A4F;strokeWidth=2;dashed=1;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=13;fontColor=#2D6A4F;" parent="1" source="ctrl" target="start" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="732" />
+              <mxPoint x="1160" y="117" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
