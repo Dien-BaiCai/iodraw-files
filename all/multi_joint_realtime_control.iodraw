@@ -1,11 +1,113 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="59fc95db-b6ae-469a-a08b-40f03c58639d" name="多关节实时插补与闭环控制">
-    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="860" pageHeight="220" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="860" pageHeight="220" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="title" value="多关节实时插补与闭环控制" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="12" y="162" width="270" height="38" as="geometry" />
+          <mxGeometry x="336.37" y="292" width="270" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-2" target="F3NkHAi_NqeSA9Xhdymk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-2" value="Interpolation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontColor=#FFFFFF;fillColor=#485e88;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-65" width="131" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-4" target="F3NkHAi_NqeSA9Xhdymk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="482" y="-63" width="85" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-0.5" width="231" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#4b5d87;" vertex="1" parent="1">
+          <mxGeometry x="505" y="9" width="187" height="159.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-8" target="F3NkHAi_NqeSA9Xhdymk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=default;dashed=1;strokeWidth=2;strokeColor=#CFCFCF;" vertex="1" parent="1">
+          <mxGeometry x="516" y="208.5" width="165" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-9" value="$$\Delta t = 1{ms}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="494.5" y="-59.5" width="60" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-10" value="Command Execution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="9" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="262.87" y="42.25" width="161.25" height="110.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-12" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 11px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;\begin{equation}&lt;br style=&quot;font-size: 11px;&quot;&gt;\begin{split}&lt;br style=&quot;font-size: 11px;&quot;&gt;\theta_i(t_k) &amp;amp;= \theta_i(t_{k-1}) + \\&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;amp;\quad \dot{\theta}_i(t_{k-1}) \Delta t + \\&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;amp;\quad 0.5 \cdot \alpha_i(t_{k-1}) \cdot (\Delta t)^2&lt;br style=&quot;font-size: 11px;&quot;&gt;\end{split}&lt;br style=&quot;font-size: 11px;&quot;&gt;\end{equation}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="295.87" y="64.5" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-13" value="determined by" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="336.37" y="103.5" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-14" value="$$\alpha_i = sa \bullet \alpha_{\text{max},i}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325.87" y="121.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-15" value="$$e_i\left(t_k\right) = \left| \theta_i\left(t_k\right) - \theta_{\mathrm{actual},i}\left(t_k\right) \right|$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313.62" y="168.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-5" target="F3NkHAi_NqeSA9Xhdymk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="38.5" as="sourcePoint" />
+            <mxPoint x="170" y="-11.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-17" value="replanning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="395" y="231.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-18" value="Real-Time&lt;div&gt;Control&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="21.5" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-19" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#ffe6cc;strokeWidth=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="71.5" width="132" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-20" value="Tracking error?" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#ffe6cc;strokeWidth=1;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="557.25" y="119.5" width="82.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-8" target="F3NkHAi_NqeSA9Xhdymk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="516" y="412.5" as="sourcePoint" />
+            <mxPoint x="566" y="362.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.996;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-6" target="F3NkHAi_NqeSA9Xhdymk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-11" target="F3NkHAi_NqeSA9Xhdymk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-24" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Disturbance Adaptation Loop&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="505" y="204.5" width="187.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-25" value="EtherCAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="455" y="103.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-26" value="position&lt;div&gt;command&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="453" y="39" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="F3NkHAi_NqeSA9Xhdymk-20" target="F3NkHAi_NqeSA9Xhdymk-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513" y="161.5" as="sourcePoint" />
+            <mxPoint x="563" y="111.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-28" value="$$e_i(t_k) = \left| \theta_i(t_k) - \theta_{\mathrm{actual},i}(t_k) \right|$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="568.75" y="74.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-29" value="$$\theta_i(t_k)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="593" y="-33.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-30" value="$$e_i(t_k) \geq 0.01\ \mathrm{rad}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568.75" y="253.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NkHAi_NqeSA9Xhdymk-31" value="$$e_i(t_k)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="593" y="175.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
