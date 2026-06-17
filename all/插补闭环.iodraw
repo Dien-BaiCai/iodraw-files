@@ -31,7 +31,7 @@
         <mxCell id="ce3FNO2p0_J2x-GG6xtL-0" value="$$\Delta t = 1{ms}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="506.5" y="117" width="60" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="ce3FNO2p0_J2x-GG6xtL-1" value="命令执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ce3FNO2p0_J2x-GG6xtL-1" value="Command Execution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="269.5" y="185.5" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ce3FNO2p0_J2x-GG6xtL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
