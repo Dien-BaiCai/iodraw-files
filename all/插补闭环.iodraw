@@ -55,7 +55,7 @@
             <mxPoint x="182" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ce3FNO2p0_J2x-GG6xtL-10" value="重规划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ce3FNO2p0_J2x-GG6xtL-10" value="重规划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontSize=17;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="407" y="408" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ce3FNO2p0_J2x-GG6xtL-13" value="实时控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="ce3FNO2p0_J2x-GG6xtL-25" value="EtherCAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="467" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ce3FNO2p0_J2x-GG6xtL-27" value="position&lt;div&gt;command&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ce3FNO2p0_J2x-GG6xtL-27" value="位置控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="465" y="215.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ce3FNO2p0_J2x-GG6xtL-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ce3FNO2p0_J2x-GG6xtL-15" target="ce3FNO2p0_J2x-GG6xtL-14" edge="1">
