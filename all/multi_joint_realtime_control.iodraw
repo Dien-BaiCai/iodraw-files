@@ -7,12 +7,6 @@
         <mxCell id="outer" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;dashed=1;dashPattern=8 6;strokeWidth=2;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="4" y="4" width="850" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="green_line" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#2E8B57;dashed=1;dashPattern=8 5;strokeWidth=2;fontFamily=Microsoft YaHei;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4" y="204" as="sourcePoint" />
-            <mxPoint x="854" y="204" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="title" value="多关节实时插补与闭环控制" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="12" y="162" width="270" height="38" as="geometry" />
         </mxCell>
@@ -32,7 +26,7 @@
           <mxGeometry x="319" y="120" width="90" height="22" as="geometry" />
         </mxCell>
         <mxCell id="cmd" value="&lt;div&gt;&lt;b&gt;命令执行&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontSize=17;fontStyle=1;arcSize=12;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="520" y="18" width="212" height="151" as="geometry" />
+          <mxGeometry x="520" y="28" width="212" height="151" as="geometry" />
         </mxCell>
         <mxCell id="cmd_formula" value="&lt;div style=&quot;font-size:11px;line-height:1.25;&quot;&gt;θ&lt;sub&gt;i&lt;/sub&gt;(t&lt;sub&gt;k&lt;/sub&gt;) = θ&lt;sub&gt;i&lt;/sub&gt;(t&lt;sub&gt;k−1&lt;/sub&gt;) +&lt;br&gt;ω&lt;sub&gt;i&lt;/sub&gt;(t&lt;sub&gt;k−1&lt;/sub&gt;)Δt +&lt;br&gt;0.5 · α&lt;sub&gt;i&lt;/sub&gt;(t&lt;sub&gt;k−1&lt;/sub&gt;) · (Δt)&lt;sup&gt;2&lt;/sup&gt;&lt;br&gt;&lt;br&gt;α&lt;sub&gt;i&lt;/sub&gt; = &lt;b&gt;sa&lt;/b&gt; · α&lt;sub&gt;max,i&lt;/sub&gt;&lt;br&gt;&lt;br&gt;e&lt;sub&gt;i&lt;/sub&gt;(t&lt;sub&gt;k&lt;/sub&gt;) = |θ&lt;sub&gt;i&lt;/sub&gt;(t&lt;sub&gt;k&lt;/sub&gt;) − θ&lt;sub&gt;actual,i&lt;/sub&gt;(t&lt;sub&gt;k&lt;/sub&gt;)|&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0C2;strokeColor=#ffa500;fontColor=#000000;fontSize=11;arcSize=8;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="548" y="52" width="160" height="103" as="geometry" />
