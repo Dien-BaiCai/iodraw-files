@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2026-06-24T00:00:00.000Z" agent="ChatGPT" version="24.7.17" type="device">
+  <diagram id="bess_grid_architecture" name="BESS grid-connected architecture">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="title" value="Grid-connected electrochemical energy storage system: power path and supervisory control path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="25" width="1260" height="40" as="geometry" />
+        </mxCell>
+
+        <mxCell id="power_layer" value="Power conversion layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=16;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="1380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="control_layer" value="Supervisory measurement and control layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=16;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="60" y="470" width="1380" height="250" as="geometry" />
+        </mxCell>
+
+        <mxCell id="battery" value="Battery stacks&lt;br&gt;Cells / modules / racks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dc_bus" value="DC bus&lt;br&gt;Udc, Idc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pcs" value="PCS&lt;br&gt;Bidirectional VSC&lt;br&gt;PQ / VSG / GFM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.4;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="filter" value="L / LCL filter&lt;br&gt;harmonic attenuation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="760" y="230" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="breaker" value="Breaker &amp;amp;&lt;br&gt;protection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="965" y="230" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pcc" value="PCC&lt;br&gt;Vpcc, Ipcc, f, P, Q" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.4;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="220" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="grid" value="AC grid / load&lt;br&gt;disturbance source" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="230" width="90" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="bms" value="BMS&lt;br&gt;SOC / SOH / temperature&lt;br&gt;limits and alarms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ems" value="EMS / SCADA&lt;br&gt;dispatch tracking, SOC scheduling&lt;br&gt;active/reactive power allocation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.4;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="260" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="dispatch" value="Grid dispatch&lt;br&gt;AGC / AVC / market signal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="560" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fast_ctrl" value="Fast controller / CCU&lt;br&gt;frequency-voltage support&lt;br&gt;fault ride-through" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="820" y="560" width="190" height="100" as="geometry" />
+        </mxCell>
+
+        <mxCell id="legend1" value="solid arrow: bidirectional power flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="90" y="750" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend2" value="dashed arrow: measurement / communication / control signal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="90" y="780" width="430" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e1" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1.6;strokeColor=#000000;" edge="1" parent="1" source="battery" target="dc_bus">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1.6;strokeColor=#000000;" edge="1" parent="1" source="dc_bus" target="pcs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1.6;strokeColor=#000000;" edge="1" parent="1" source="pcs" target="filter">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1.6;strokeColor=#000000;" edge="1" parent="1" source="filter" target="breaker">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1.6;strokeColor=#000000;" edge="1" parent="1" source="breaker" target="pcc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1.6;strokeColor=#000000;" edge="1" parent="1" source="pcc" target="grid">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="c1" value="status, limits" style="endArrow=block;html=1;rounded=0;strokeWidth=1;dashed=1;strokeColor=#000000;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1" source="bms" target="ems">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="P*, Q*, mode" style="endArrow=block;html=1;rounded=0;strokeWidth=1;dashed=1;strokeColor=#000000;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1" source="ems" target="pcs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="measurements" style="endArrow=block;html=1;rounded=0;strokeWidth=1;dashed=1;strokeColor=#000000;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1" source="pcc" target="ems">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="AGC/AVC" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeWidth=1;dashed=1;strokeColor=#000000;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1" source="dispatch" target="ems">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="fast support command" style="endArrow=block;html=1;rounded=0;strokeWidth=1;dashed=1;strokeColor=#000000;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1" source="fast_ctrl" target="pcs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="PCC event" style="endArrow=block;html=1;rounded=0;strokeWidth=1;dashed=1;strokeColor=#000000;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1" source="pcc" target="fast_ctrl">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
