@@ -261,7 +261,7 @@
           <mxGeometry x="120" y="1764" width="1360" height="32" as="geometry" />
         </mxCell>
         <mxCell id="spline" value="B   Cubic B-spline generation" style="swimlane;horizontal=1;startSize=44;container=1;collapsible=0;recursiveResize=0;rounded=1;arcSize=10;fillColor=#FBECDC;swimlaneFillColor=#FFFDF9;strokeColor=#B66B30;strokeWidth=2;fontFamily=Arial;fontSize=24;fontStyle=1;fontColor=#243543;align=left;spacingLeft=22;verticalAlign=middle;whiteSpace=wrap;html=0;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="1090" width="755" height="620" as="geometry" />
+          <mxGeometry x="1420" y="960" width="755" height="620" as="geometry" />
         </mxCell>
         <mxCell id="prepare" value="&lt;div style=&quot;line-height:1.2;&quot;&gt;&lt;span style=&quot;font-size:24px;font-weight:bold;&quot;&gt;Prepare inlier set P&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:19px;&quot;&gt;Sort by y; remove duplicate y&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B66B30;strokeWidth=2;fontFamily=Arial;fontColor=#243543;fontSize=24;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="spline" vertex="1">
           <mxGeometry x="40" y="65" width="300" height="90" as="geometry" />
