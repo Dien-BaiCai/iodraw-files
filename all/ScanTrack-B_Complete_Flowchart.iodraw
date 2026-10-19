@@ -237,8 +237,31 @@
         <mxCell id="e26_label" value="Yes" style="text;html=0;strokeColor=none;fillColor=#FFFFFF;fontFamily=Arial;fontSize=20;fontColor=#425466;align=center;verticalAlign=middle;whiteSpace=wrap;spacing=1;connectable=0;" parent="ransac" vertex="1">
           <mxGeometry x="543.672" y="448" width="46.6562" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="spline" value="B   Cubic B-spline generation" style="swimlane;horizontal=1;startSize=44;container=1;collapsible=0;recursiveResize=0;rounded=1;arcSize=10;fillColor=#FBECDC;swimlaneFillColor=#FFFDF9;strokeColor=#B66B30;strokeWidth=2;fontFamily=Arial;fontSize=24;fontStyle=1;fontColor=#243543;align=left;spacingLeft=22;verticalAlign=middle;whiteSpace=wrap;html=0;" parent="stage3" vertex="1">
-          <mxGeometry x="766" y="76" width="755" height="620" as="geometry" />
+        <mxCell id="e05" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="1" source="roi" target="init" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1386" y="268" />
+              <mxPoint x="1545" y="268" />
+              <mxPoint x="1545" y="337" />
+              <mxPoint x="230" y="337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e20" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="1" source="q" target="rinit" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="1012" />
+              <mxPoint x="1510" y="1012" />
+              <mxPoint x="1510" y="1088" />
+              <mxPoint x="592.5" y="1088" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend" value="Q: tracked centers     I: RANSAC inliers     P: ordered, deduplicated inliers     n = |P|" style="text;html=0;fontFamily=Arial;fontSize=21;fontColor=#52616B;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1764" width="1360" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="spline" value="B   Cubic B-spline generation" style="swimlane;horizontal=1;startSize=44;container=1;collapsible=0;recursiveResize=0;rounded=1;arcSize=10;fillColor=#FBECDC;swimlaneFillColor=#FFFDF9;strokeColor=#B66B30;strokeWidth=2;fontFamily=Arial;fontSize=24;fontStyle=1;fontColor=#243543;align=left;spacingLeft=22;verticalAlign=middle;whiteSpace=wrap;html=0;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1090" width="755" height="620" as="geometry" />
         </mxCell>
         <mxCell id="prepare" value="&lt;div style=&quot;line-height:1.2;&quot;&gt;&lt;span style=&quot;font-size:24px;font-weight:bold;&quot;&gt;Prepare inlier set P&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:19px;&quot;&gt;Sort by y; remove duplicate y&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B66B30;strokeWidth=2;fontFamily=Arial;fontColor=#243543;fontSize=24;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="spline" vertex="1">
           <mxGeometry x="40" y="65" width="300" height="90" as="geometry" />
@@ -295,36 +318,13 @@
         <mxCell id="e33" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="spline" source="mapping" target="output" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e27" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="stage3" source="inliers" target="prepare" edge="1">
+        <mxCell id="e27" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="1" source="inliers" target="prepare" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="746" y="596" />
-              <mxPoint x="746" y="186" />
+              <mxPoint x="770" y="1620" />
+              <mxPoint x="770" y="1210" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="e05" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="1" source="roi" target="init" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1386" y="268" />
-              <mxPoint x="1545" y="268" />
-              <mxPoint x="1545" y="337" />
-              <mxPoint x="230" y="337" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e20" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#425466;strokeWidth=2.1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=1;entryPerimeter=1;" parent="1" source="q" target="rinit" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="1012" />
-              <mxPoint x="1510" y="1012" />
-              <mxPoint x="1510" y="1088" />
-              <mxPoint x="592.5" y="1088" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="legend" value="Q: tracked centers     I: RANSAC inliers     P: ordered, deduplicated inliers     n = |P|" style="text;html=0;fontFamily=Arial;fontSize=21;fontColor=#52616B;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1764" width="1360" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
