@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" agent="Codex" version="24.7.17" type="device">
+  <diagram id="library-greenhouse-route" name="库棚道路导航技术路线">
+    <mxGraphModel dx="1440" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1440" pageHeight="1240" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" value="技术路线图" />
+        <mxCell id="title" value="库棚连接道路多源信息融合导航技术路线图" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=30;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="110" y="23" width="1220" height="47" />
+        </mxCell>
+        <mxCell id="subtitle" value="全局参考路径—局部安全通行走廊—中心路径修正" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#51616D;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="110" y="78" width="1220" height="28" />
+        </mxCell>
+        <mxCell id="data" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#66788A;strokeWidth=1.35;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="110" y="128" width="1220" height="190" />
+        </mxCell>
+        <mxCell id="data_head" value="一、多源信息与时空对齐" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF4;strokeColor=none;strokeWidth=1.2;fontColor=#66788A;fontFamily=Noto Sans CJK SC;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="data">
+          <mxGeometry as="geometry" x="1" y="1" width="1218" height="36" />
+        </mxCell>
+        <mxCell id="side_data" value="数据&#10;基础" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF4;strokeColor=#66788A;strokeWidth=1.3;fontColor=#66788A;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="28" y="128" width="60" height="190" />
+        </mxCell>
+        <mxCell id="gnss" value="GNSS-RTK&#10;位置与定位质量" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="data">
+          <mxGeometry as="geometry" x="18" y="51" width="284" height="55" />
+        </mxCell>
+        <mxCell id="camera" value="HF901相机&#10;道路图像" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="data">
+          <mxGeometry as="geometry" x="318" y="51" width="284" height="55" />
+        </mxCell>
+        <mxCell id="lidar" value="C16激光雷达&#10;局部地形点云" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="data">
+          <mxGeometry as="geometry" x="618" y="51" width="284" height="55" />
+        </mxCell>
+        <mxCell id="state" value="平台运动状态&#10;已有里程计等信息" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="data">
+          <mxGeometry as="geometry" x="918" y="51" width="284" height="55" />
+        </mxCell>
+        <mxCell id="align" value="时间匹配 · 坐标统一 · 相机—雷达标定" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#F7F9FC;strokeColor=#8493A2;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="data">
+          <mxGeometry as="geometry" x="140" y="133" width="940" height="41" />
+        </mxCell>
+        <mxCell id="side_branches" value="协同&#10;导航" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#E6EDF8;strokeColor=#52729B;strokeWidth=1.3;fontColor=#52729B;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="28" y="360" width="60" height="370" />
+        </mxCell>
+        <mxCell id="global" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#52729B;strokeWidth=1.35;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="110" y="360" width="440" height="370" />
+        </mxCell>
+        <mxCell id="global_head" value="二、全局引导与定位衔接" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#E6EDF8;strokeColor=none;strokeWidth=1.2;fontColor=#52729B;fontFamily=Noto Sans CJK SC;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="global">
+          <mxGeometry as="geometry" x="1" y="1" width="438" height="38" />
+        </mxCell>
+        <mxCell id="pose" value="GNSS质量检查&#10;复用已有定位&#10;衔接库口过渡" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="global">
+          <mxGeometry as="geometry" x="18" y="60" width="202" height="100" />
+        </mxCell>
+        <mxCell id="map" value="道路语义地图&#10;道路与禁行区&#10;棚门目标" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=20;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="global">
+          <mxGeometry as="geometry" x="240" y="60" width="182" height="100" />
+        </mxCell>
+        <mxCell id="global_path" value="全局参考路径&#10;航点导航 / A*" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#F4F7FC;strokeColor=#52729B;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="global">
+          <mxGeometry as="geometry" x="60" y="230" width="320" height="70" />
+        </mxCell>
+        <mxCell id="perception" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#547E6D;strokeWidth=1.35;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="590" y="360" width="740" height="370" />
+        </mxCell>
+        <mxCell id="perception_head" value="三、视觉—雷达融合感知" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#E5F0EB;strokeColor=none;strokeWidth=1.2;fontColor=#547E6D;fontFamily=Noto Sans CJK SC;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="perception">
+          <mxGeometry as="geometry" x="1" y="1" width="738" height="38" />
+        </mxCell>
+        <mxCell id="vision" value="视觉语义分割&#10;道路区域与边界" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="perception">
+          <mxGeometry as="geometry" x="18" y="60" width="328" height="75" />
+        </mxCell>
+        <mxCell id="geometry" value="点云地形分析&#10;高差 · 坡度 · 有效观测" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="perception">
+          <mxGeometry as="geometry" x="394" y="60" width="328" height="75" />
+        </mxCell>
+        <mxCell id="fusion" value="语义—几何融合&#10;规则基线 → 轻量特征融合" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#F2F8F5;strokeColor=#547E6D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="perception">
+          <mxGeometry as="geometry" x="162" y="182" width="416" height="71" />
+        </mxCell>
+        <mxCell id="states_output" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#547E6D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="perception">
+          <mxGeometry as="geometry" x="45" y="285" width="650" height="70" />
+        </mxCell>
+        <mxCell id="free" value="可通行" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#E7F2EB;strokeColor=#769A7F;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="states_output">
+          <mxGeometry as="geometry" x="15" y="12" width="188" height="48" />
+        </mxCell>
+        <mxCell id="danger" value="危险" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#F7E7DF;strokeColor=#B88F7B;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="states_output">
+          <mxGeometry as="geometry" x="231" y="12" width="188" height="48" />
+        </mxCell>
+        <mxCell id="unknown" value="未知" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EDF0F4;strokeColor=#8D9BAB;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="states_output">
+          <mxGeometry as="geometry" x="447" y="12" width="188" height="48" />
+        </mxCell>
+        <mxCell id="loc_label" value="定位与运动信息" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#52729B;fontFamily=Noto Sans CJK SC;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="128" y="326" width="188" height="24" />
+        </mxCell>
+        <mxCell id="percept_label" value="图像与点云" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#547E6D;fontFamily=Noto Sans CJK SC;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="980" y="326" width="200" height="24" />
+        </mxCell>
+        <mxCell id="focus" value="研究重点" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#547E6D;fontFamily=Noto Sans CJK SC;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="perception">
+          <mxGeometry as="geometry" x="600" y="8" width="122" height="24" />
+        </mxCell>
+        <mxCell id="local_path" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#A17C50;strokeWidth=1.35;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="110" y="786" width="1220" height="192" />
+        </mxCell>
+        <mxCell id="local_path_head" value="路径生成与控制衔接" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#F8ECDF;strokeColor=none;strokeWidth=1.2;fontColor=#A17C50;fontFamily=Noto Sans CJK SC;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="local_path">
+          <mxGeometry as="geometry" x="1" y="1" width="1218" height="38" />
+        </mxCell>
+        <mxCell id="side_path" value="应用&#10;衔接" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#F8ECDF;strokeColor=#A17C50;strokeWidth=1.3;fontColor=#A17C50;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="28" y="786" width="60" height="192" />
+        </mxCell>
+        <mxCell id="branch" value="目标道路分支选择&#10;匹配全局参考方向" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="local_path">
+          <mxGeometry as="geometry" x="18" y="64" width="340" height="84" />
+        </mxCell>
+        <mxCell id="corridor" value="局部安全通行走廊&#10;车辆轮廓与安全余量" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFAF3;strokeColor=#A17C50;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="local_path">
+          <mxGeometry as="geometry" x="430" y="64" width="360" height="84" />
+        </mxCell>
+        <mxCell id="navigation_path" value="局部中心路径&#10;复用中心点提取与拟合&#10;衔接已有跟踪控制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="local_path">
+          <mxGeometry as="geometry" x="842" y="64" width="360" height="84" />
+        </mxCell>
+        <mxCell id="local_input_label" value="局部道路与风险边界" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#547E6D;fontFamily=Noto Sans CJK SC;fontSize=19;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="994" y="748" width="310" height="26" />
+        </mxCell>
+        <mxCell id="validation" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#807098;strokeWidth=1.35;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;dashed=1;dashPattern=6 4;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="110" y="1026" width="1220" height="190" />
+        </mxCell>
+        <mxCell id="validation_head" value="融合效果与应用验证" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EEEAF5;strokeColor=none;strokeWidth=1.2;fontColor=#807098;fontFamily=Noto Sans CJK SC;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="validation">
+          <mxGeometry as="geometry" x="1" y="1" width="1218" height="38" />
+        </mxCell>
+        <mxCell id="side_validation" value="效果&#10;评价" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EEEAF5;strokeColor=#807098;strokeWidth=1.3;fontColor=#807098;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="28" y="1026" width="60" height="190" />
+        </mxCell>
+        <mxCell id="comparison" value="视觉 / 雷达 / 融合对比&#10;相同场景与采集条件" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="validation">
+          <mxGeometry as="geometry" x="18" y="61" width="360" height="70" />
+        </mxCell>
+        <mxCell id="percept_metrics" value="可通行区域与危险边界&#10;IoU · 危险区误判为可通行比例" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="validation">
+          <mxGeometry as="geometry" x="430" y="61" width="360" height="70" />
+        </mxCell>
+        <mxCell id="path_metrics" value="道路边界与中心路径偏差&#10;处理延迟 · 安全间距" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="validation">
+          <mxGeometry as="geometry" x="842" y="61" width="360" height="70" />
+        </mxCell>
+        <mxCell id="verify_scope" value="以离线数据验证融合效果，结合已有平台开展应用验证" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#807098;fontFamily=Noto Sans CJK SC;fontSize=20;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" vertex="1" parent="validation">
+          <mxGeometry as="geometry" x="18" y="154" width="1184" height="26" />
+        </mxCell>
+        <mxCell id="input_0" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#64727D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.02127659574468085;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="gnss" target="align">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="input_1" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#64727D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.3404255319148936;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="camera" target="align">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="input_2" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#64727D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.6595744680851063;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="lidar" target="align">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="input_3" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#64727D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.9787234042553191;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="state" target="align">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="pose_to_global" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#52729B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.25;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="pose" target="global_path">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="229" y="553" />
+              <mxPoint x="250" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="map_to_global" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#52729B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.75;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="map" target="global_path">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="441" y="553" />
+              <mxPoint x="410" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vision_fusion" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#547E6D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.25;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="vision" target="fusion">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="772" y="518" />
+              <mxPoint x="856" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geometry_fusion" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#547E6D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.75;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="geometry" target="fusion">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="1148" y="518" />
+              <mxPoint x="1064" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fusion_states" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#547E6D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="fusion" target="states_output">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="prep_global" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#52729B;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.0851063829787234;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="align" target="global">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="prep_local" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#547E6D;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=0.7553191489361702;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="align" target="perception">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="global_branch" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#52729B;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="global_path" target="branch">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="330" y="756" />
+              <mxPoint x="298" y="756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="local_corridor" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#547E6D;strokeWidth=1.8;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.9;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="states_output" target="corridor">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="960" y="836" />
+              <mxPoint x="864" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="branch_corridor" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#A17C50;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="branch" target="corridor">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="corridor_path" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#A17C50;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="corridor" target="navigation_path">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="comparison_metrics" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#807098;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="comparison" target="percept_metrics">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="metrics_application" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#807098;strokeWidth=1.5;endArrow=block;endFill=1;endSize=8;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="percept_metrics" target="path_metrics">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="path_validation" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#64727D;strokeWidth=2;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="local_path" target="validation">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
