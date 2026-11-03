@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="library-greenhouse-route" name="库棚道路导航技术路线">
-    <mxGraphModel dx="2390" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2546" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2546" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="技术路线图" parent="0" />
@@ -346,27 +346,6 @@
         <mxCell id="s5_stage" value="05&#xa;&#xa;验证&#xa;分析" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF2;strokeColor=#485B69;strokeWidth=1.5;fontColor=#485B69;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="1998" width="88" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="results" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#485B69;strokeWidth=1.35;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;container=1;collapsible=0;recursiveResize=0;dashed=1;dashPattern=6 4;" parent="1" vertex="1">
-          <mxGeometry x="148" y="2396" width="1552" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="results_head" value="预期成果与论文支撑" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF2;strokeColor=none;strokeWidth=1.2;fontColor=#485B69;fontFamily=Noto Sans CJK SC;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="results" vertex="1">
-          <mxGeometry x="1" y="1" width="1550" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="res_data" value="多源数据与标定结果&#xa;库棚道路语义地图" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=20;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="results" vertex="1">
-          <mxGeometry x="16" y="43" width="368" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="res_percept" value="融合可通行区域&#xa;沟沿危险边界与未知区" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=20;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="results" vertex="1">
-          <mxGeometry x="400" y="43" width="368" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="res_path" value="车辆约束局部中心路径&#xa;指定棚门到达流程" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=20;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="results" vertex="1">
-          <mxGeometry x="784" y="43" width="368" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="res_thesis" value="对比与消融实验结果&#xa;程序参数、论文与答辩材料" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#64727D;strokeWidth=1.2;fontColor=#26343E;fontFamily=Noto Sans CJK SC;fontSize=20;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="results" vertex="1">
-          <mxGeometry x="1168" y="43" width="368" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="results_stage" value="成果&#xa;输出" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF2;strokeColor=#485B69;strokeWidth=1.2;fontColor=#485B69;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
-          <mxGeometry x="35" y="2396" width="88" height="105" as="geometry" />
-        </mxCell>
         <mxCell id="feedback_label" value="评&#xa;估&#xa;结&#xa;果&#xa;反&#xa;馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#51616D;fontFamily=Noto Sans CJK SC;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
           <mxGeometry x="1753" y="1400" width="35" height="238" as="geometry" />
         </mxCell>
@@ -482,9 +461,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="main_4" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#3D4E5B;strokeWidth=2.2;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" parent="1" source="s4" target="s5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="main_5" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#3D4E5B;strokeWidth=2.2;endArrow=block;endFill=1;endSize=8;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" parent="1" source="s5" target="results" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feedback_fusion" value="" style="edgeStyle=none;rounded=0;html=0;strokeColor=#6A7780;strokeWidth=1.7;endArrow=block;endFill=1;endSize=8;exitX=1;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;dashed=1;dashPattern=6 4;" parent="1" source="metric_path" target="fusion" edge="1">
