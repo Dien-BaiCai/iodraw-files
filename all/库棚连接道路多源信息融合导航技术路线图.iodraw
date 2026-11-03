@@ -370,9 +370,6 @@
         <mxCell id="results_stage" value="成果&#xa;输出" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF2;strokeColor=#485B69;strokeWidth=1.2;fontColor=#485B69;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="2396" width="88" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="legend" value="实线箭头：技术与数据流程　　虚线箭头：迭代反馈　　绿色与橙色模块：本科毕设核心研究" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#51616D;fontFamily=Noto Sans CJK SC;fontSize=17;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
-          <mxGeometry x="148" y="2517" width="1552" height="22" as="geometry" />
-        </mxCell>
         <mxCell id="feedback_label" value="评&#xa;估&#xa;结&#xa;果&#xa;反&#xa;馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#51616D;fontFamily=Noto Sans CJK SC;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
           <mxGeometry x="1753" y="1400" width="35" height="238" as="geometry" />
         </mxCell>
