@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="library-greenhouse-route" name="库棚道路导航技术路线">
-    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2546" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2546" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="技术路线图" parent="0" />
@@ -342,9 +342,6 @@
         </mxCell>
         <mxCell id="error_analysis" value="区分定位误差、全局参考路径偏离、局部感知误差与实际跟踪偏差，反馈调整融合与路径参数" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#485B69;fontFamily=Noto Sans CJK SC;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="s5" vertex="1">
           <mxGeometry x="16" y="321" width="1520" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="conditional_metrics" value="* 实车指标在具备独立参考测量并通过通路安全复核后统计；无条件时以回放或仿真验证为主。" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#51616D;fontFamily=Noto Sans CJK SC;fontSize=16;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="s5" vertex="1">
-          <mxGeometry x="16" y="350" width="1520" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s5_stage" value="05&#xa;&#xa;验证&#xa;分析" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=0;fillColor=#EBEFF2;strokeColor=#485B69;strokeWidth=1.5;fontColor=#485B69;fontFamily=Noto Sans CJK SC;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;spacing=0;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=0;overflow=hidden;rotatable=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="1998" width="88" height="370" as="geometry" />
